@@ -1,0 +1,19 @@
+{
+ "format": 1,
+ "packs": [
+  {
+   "name": "common_uk",
+   "version": 1,
+   "url": "https://raw.githubusercontent.com/D0M1C0/islet-food-data/main/packs/common_uk.tsv",
+   "sha256": "d91510d808e01d0a668c1776d83871c5e0a8f3b304684181d55cb802b9996c13",
+   "bytes": 9257
+  },
+  {
+   "name": "fastfood_uk",
+   "version": 1,
+   "url": "https://raw.githubusercontent.com/D0M1C0/islet-food-data/main/packs/fastfood_uk.tsv",
+   "sha256": "2e0e3c9aa3cd1cd7ddcff74c54914899cff60107281cef9676a8f7bd49cfac5f",
+   "bytes": 4201
+  }
+ ]
+}
