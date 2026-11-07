@@ -40,3 +40,215 @@ Greggs	Hot Chocolate (regular)	372	36	30		2026-11 Greggs Nutritional Information
 Greggs	Iced Latte (regular)	460.9	13	11		2026-11 Greggs Nutritional Information Guide (Oct 2026)
 Greggs	Iced Caramel Latte (regular)	484.9	24	22		2026-11 Greggs Nutritional Information Guide (Oct 2026)
 Greggs	Iced Mocha	436.9	27	23		2026-11 Greggs Nutritional Information Guide (Oct 2026)
+McDonald's	Bacon & Egg McMuffin	142	27	2.6		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Breakfast Wrap with Brown Sauce	295	53	6.7		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Breakfast Wrap with Ketchup	295	52	5.9		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Cheesy Bacon Flatbread	90	28	2.4		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Chicken & Bacon McMuffin	149	37	2.9		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Chicken & Egg McMuffin	182	38	3.0		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Double Bacon & Egg McMuffin	157	27	2.7		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Double Sausage & Egg McMuffin	225	28	3.7		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Double Sausage Sandwich with Brown Sauce	175	31	9.0		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Double Sausage Sandwich with Ketchup	175	31	8.5		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Egg & Cheese McMuffin	126	27	2.6		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Flahavan's Quick Oats	195	28	8.8		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Hash Brown	54	13	0.2		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Muffin with Jam	78	35	11		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Pancakes & Sausage with Syrup	233	99	41		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Pancakes & Syrup	284	98	41		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Porridge	220	23	6.4		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Porridge with Lyle's Golden Syrup	235	61	34		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Porridge with Strawberry Jam	210	37	18		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Porridge with Sugar	198	31	12		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Sausage & Egg McMuffin	176	27	3.1		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Sausage Sandwich with Brown Sauce	125	31	8.5		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Sausage Sandwich with Ketchup	126	30	8.0		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Big Arch	389	54	15		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Big Arch with Bacon	401	54	15		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Big Mac	220	41	8.1		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Cheeseburger	119	30	7.5		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Double Cheeseburger	172	31	8.2		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Double Filet-O-Fish	196	45	5.9		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Double Quarter Pounder with Cheese	283	36	11	dqpc	2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Filet-O-Fish	133	36	5.4		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Hamburger	105	29	6.9		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	McExtreme	308	45	6.5		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	McPlant	215	40	11		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Quarter Pounder with Cheese	201	36	11	qpc	2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	20 Chicken McNuggets ShareBox	464	68	1.9	nuggets	2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	6 Piece Chicken McNuggets	209	21	0.6	nuggets	2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	9 Chicken Selects Sharebox	505	66	0.0		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	9 Piece Chicken McNuggets	264	31	0.9	nuggets	2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Cheese & Bacon McCrispy	234	55	7.7		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Chicken Selects	235	22	0.0		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Chicken Selects (5 pieces)	325	36	0.0		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Chicken Wings - 3 Pieces	122	6.5	1.6		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Chicken Wings - 5 Pieces	204	11	2.6		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Crispy BBQ & Bacon Wrap	219	54	6.3		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Crispy Chicken Salad	271	24	3.7		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Crispy Chicken and Bacon Salad	282	25	3.8		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Crispy Sweet Chilli Chicken Wrap	213	53	6.5		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Mayo Chicken	121	36	5.1		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	McChicken Sandwich	169	41	7.0		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	McCrispy	208	53	6.9		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Spicy McCrispy	208	53	6.2		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	The McDonald's Chicken Sharebox	488	85	1.1		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	The Tikka Chicken One - Crispy	226	50	4.2		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	BBQ Dip (25 g)	29	11	9.3		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Garlic Mayo Dip	40	3.0	0.8		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Golden Syrup	20	16	16		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Pancake Syrup (40 g)	40	33	25		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Salted Caramel Syrup (medium)	21	9.2	9.0		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Spicy Mayo Dip	40	3.0	1.2		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Strawberry Jam (15 g)	15	9.6	9.6		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Sugar Stick	3	3.0	3.0		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Sweet & Smoky BBQ Dip	40	15	14		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Sweet & Sour Dip (25 ml)	29	10	8.7		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Sweet Chilli Dip	40	17	14		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Sweet Curry Dip (25 g)	29	10	8.0		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Szechuan Dip	40	16	16		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Tomato Ketchup (25 g)	24	6.0	4.6		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Vanilla Syrup (regular)	21	8.8	8.4		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Apple Pie	83	27	9.2		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Mac and Cheese Triangles	78	24	0.9		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Paprika Shaker Fries (large)	153	56	1.9		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Mini Hashbrown Sharebox	128	34	0.6		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Cappuccino	237	8.6	8.6		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Flat White	231	8.4	8.2		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Hot Chocolate	310	30	27		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Latte	349	14	14		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	White Coffee	372	5.5	4.7		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Banana Milkshake	336	62	58		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Caramel Iced Frappe	332	38	33		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Chocolate Milkshake	336	61	50		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Coca-Cola Classic (medium)	400	42	42	coke	2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Fanta No Added Sugar (medium)		1.6	1.6		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Frozen Strawberry Lemonade	353	29	25		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	IRN-BRU (medium)	400	18	18		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Mango & Pineapple Smoothie (regular)	321	34	32		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Oasis Zero Summer Fruits (regular)		2.0	2.0		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Organic Milk	250	12	12		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Robinsons Fruit Shoot		1.6	1.6		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Semi Skimmed Milk (250 ml)	258	12	12		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Strawberry Milkshake	336	62	57		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Tropicana Apple Juice	261	28	25		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Tropicana Orange Juice	250	23	22		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Vanilla Milkshake	336	64	60		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Banana Milkshake (small)	177	34	30		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Chocolate Milkshake (small)	177	32	27		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Coca-Cola Classic (small)	250	27	27	coke	2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Fanta No Added Sugar (small)		1.0	1.0		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	IRN-BRU (small)	250	11	11		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	McDonald's Fries (small)	80	29	0.4	chips;fries	2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Oasis Zero Summer Fruits (small)		1.2	1.2		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Oreo McFlurry (mini)	80	19	16		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Smarties McFlurry (mini)	81	20	18		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Strawberry Milkshake (small)	177	33	30		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Vanilla Milkshake (small)	177	34	31		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Apple Slices	80	10	10		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Carrot Sticks	80	6.2	5.8		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Chocolate Brownie	60	29	24		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	McDonald's Fries	114	42	0.6	chips;fries	2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Mixed Berry Muffin	104	48	25		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Oreo McFlurry	160	39	32	mcflurry	2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Paprika Shaker Fries (medium)	117	43	1.7		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	S'mores McFlurry	184	51	42		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Smarties McFlurry	162	40	37	mcflurry	2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Sugar Donut	50	21	5.7		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Twix White Salted Caramel McFlurry	184	55	43		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Mac and Cheese Triangles Sharebox	234	71	2.8		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Side Salad	110	3.8	1.7		2026-11-07 mcdonalds.com/gb (nutrition API)
+McDonald's	Snack Wrap	117	31	2.0		2026-11-07 mcdonalds.com/gb (nutrition API)
+KFC	BBQ Fillet Stacker Burger		59.2	10		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	BBQ Fillet Tower Burger		57	11		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Fillet Burger		43	6.5		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Fillet Tower Burger		55.5	11		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Kids Burger		30	4.8		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Mini Burger		28	2.6		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Vegan Burger		41	7.7		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Zinger Burger		43	6.5	zinger	2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Zinger Stacker		60.9	13		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Zinger Supercharger Tower Burger		53.5	8.7		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Mozzamelt Fillet Burger		64.6	10		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Mozzamelt Zinger Burger		63	9.8		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Apple Tango (large)		2.3	2.3		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Apple Tango (regular)		1.5	1.5		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Caramel Krunch Shake		82.9	69		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Cherry Boba Refresher		27.3	27		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Chocolate Krunch Shake		82.4	71		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Iced Caramel Latte		27.9	27		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Iced Latte		11.8	11		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Iced Tiramisu Latte		39.2	38		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Iced Vanilla Latte		14.2	11		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Lipton Ice Tea (large)		19.3	18.9		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Lipton Ice Tea (regular)		13.8	13.5		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Oatly Iced Caramel Latte		43.8	35		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Oatly Iced Latte		15.3	5.1		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Oatly Iced Tiramisu Latte		27.4	19		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Oatly Iced Vanilla Latte		18.3	8.2		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Oatly Strawberry Shortcake Iced Matcha		47.5	33		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Oatly Vanilla Iced Matcha		13.5	5.4		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Pepsi (large)		44.9	44.5	cola	2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Pepsi (regular)		32.1	31.8	cola	2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Sparkling Cloudy Lemonade		4.3	3.8		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Sparkling Raspberry Lemonade		21.9	22		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Strawberry Boba Refresher		35.3	34		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Strawberry Shortcake Iced Matcha		44	35		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Strawberry Shortcake Krunch Shake		83.1	69		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Tropicana Orange Juice		23.3	21.7		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Vanilla Iced Matcha		9.4	7.6		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Dirty Millionaire Shake		103.2	83		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Hot Wing (per piece)		3.8	0.5		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Kansas BBQ Drip'd Bites		34.7	18		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Large Popcorn Chicken		28	0.6		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Original Recipe Chicken Drumstick		8	0.5	chicken piece	2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Original Recipe Chicken Keel		6.8	0.5	chicken piece breast	2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Original Recipe Chicken Rib		11	0.5	chicken piece	2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Original Recipe Chicken Thigh		8.2	0.2	chicken piece	2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Original Recipe Chicken Wing		6.8	0.5	chicken piece	2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Regular Popcorn Chicken		18	0.5		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Small Popcorn Chicken		8.3	0.2		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Sweet Chilli Drip'd Bites		36.8	21		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Tender (per piece)		5.8	0.5		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Milk Chocolate Cookie		40.1	20.5		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Mini Chocolate Sundae		20	16		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Oreo Sundae		38	29		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	White Chocolate Cookie		36	21		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Yoyo Bear (Strawberry)		13	8.4		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	3 Mega Mozza Sticks		27.6	2.1		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Original Ranch Rice Bowl		62.8	7.4		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Veggie Ranch Rice Bowl		59.7	8.8		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Zinger Ranch Rice Bowl		61.6	6.5		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	2 Corn Cobettes (large)		16	3.8		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Cajun Dirty Rice		43	2.4		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Corn Cobette		8.1	1.9		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Dirty Loaded Fries		53	5.5		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Garlic Parm Dip Pot		3.2	2		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Hashbrown (per piece)		8.8	0.7		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Heinz Tomato Ketchup Sachet		2.3	2.3		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Honey Mustard Dip Pot		9.3	8.4		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Hot Honey Habanero Dip Pot		22.4	19		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Jalapeno Ranch Dip Pot		3.4	1.8		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	BBQ Beans (large)		31	13		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Coleslaw (large)		12	11		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Creamy Mash (large)		40	2		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Fries (large)		54	0.5	chips	2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Gravy (large)		19	0.8		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Mango Masala Dip Pot		15	14		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Original Sauce Dip Pot		3.3	3		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	BBQ Beans (regular)		15	5.9		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Coleslaw (regular)		6.1	5.3		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Creamy Mash (regular)		20	1		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Fries (regular)		38	0.5	chips	2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Gravy (regular)		8.4	0.5		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Side Salad		4.7	2.09		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Supercharger Dip Pot		3.9	2.9		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Sweet Teriyaki Dip Pot		11.4	9.2		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Texas BBQ Dip Pot		16.6	15		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	BBQ Mini Wrap		30.9	4.5		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Flamin' Mini Wrap		28.5	2.9		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Kentucky Mayo Twister		46.1	5.1		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Kentucky Original Wrap		44.3	3.1		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Smokey BBQ Twister		51.2	9		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Supercharger Twister		47.8	6.2		2026-11-07 kfc.co.uk/nutrition-allergens
+KFC	Sweet Chilli Twister		53.1	11		2026-11-07 kfc.co.uk/nutrition-allergens
