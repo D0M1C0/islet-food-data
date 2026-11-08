@@ -10,10 +10,10 @@
   },
   {
    "name": "fastfood_costa_uk",
-   "version": 1,
+   "version": 2,
    "url": "https://raw.githubusercontent.com/D0M1C0/islet-food-data/main/packs/fastfood_costa_uk.tsv",
-   "sha256": "17a871ea4c7842fd028d307a1a4a36192c1a987ff2608cbd15847de90eddcea8",
-   "bytes": 8338
+   "sha256": "79ad01328c8b8842eef588aa5f4f4a09cedcefd2ca4de54abf803ba65e77c1c4",
+   "bytes": 13833
   },
   {
    "name": "fastfood_pizzahut_uk",
