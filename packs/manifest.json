@@ -37,6 +37,13 @@
    "bytes": 30141
   },
   {
+   "name": "fastfood_subway_uk",
+   "version": 1,
+   "url": "https://raw.githubusercontent.com/D0M1C0/islet-food-data/main/packs/fastfood_subway_uk.tsv",
+   "sha256": "2d3ee3d848ceb4271643337ecdb5c629b98ad99fc8534b9620b3170865ba19f2",
+   "bytes": 23005
+  },
+  {
    "name": "fastfood_uk",
    "version": 2,
    "url": "https://raw.githubusercontent.com/D0M1C0/islet-food-data/main/packs/fastfood_uk.tsv",

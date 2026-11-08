@@ -12,6 +12,7 @@ on the phone, so a broken download changes nothing. Islet works offline with the
 | `fastfood_pret_uk.tsv` | Pret: food and drinks, per serving with the average weight | pret.co.uk menu pages (8 Nov 2026); the app also reads them monthly |
 | `fastfood_starbucks_uk.tsv` | Starbucks: food per item, drinks per size (Short, Tall, Grande, Venti) with standard milk | starbucks.co.uk product pages (8 Nov 2026) |
 | `fastfood_costa_uk.tsv` | Costa: drinks per cup (in store and take-out) and food per portion with its weight | costa.co.uk menu pages (8 Nov 2026) |
+| `fastfood_subway_uk.tsv` | Subway: 6-inch and footlong subs, wraps, salads, spuds, sides, cookies, breads and fillings | Subway UK and ROI Nutrition Information, September 2026 (read 8 Nov 2026) |
 | `off_<country>.tsv` (planned) | Packaged products sold in one country, for offline barcode and search | Open Food Facts (ODbL) |
 
 To publish a change: edit or add packs in `packs/`, then run
