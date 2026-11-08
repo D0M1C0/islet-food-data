@@ -11,7 +11,7 @@ on the phone, so a broken download changes nothing. Islet works offline with the
 | `fastfood_pizzahut_uk.tsv` | Pizza Hut Delivery: whole pizzas and one serving (half, third, quarter), sides, chicken, dips, desserts; carbs per item (no weights given) | Pizza Hut nutrition and allergen booklet, valid from July 2026 (read 8 Nov 2026) |
 | `fastfood_pret_uk.tsv` | Pret: food and drinks, per serving with the average weight | pret.co.uk menu pages (8 Nov 2026); the app also reads them monthly |
 | `fastfood_starbucks_uk.tsv` | Starbucks: food per item, drinks per size (Short, Tall, Grande, Venti) with standard milk | starbucks.co.uk product pages (8 Nov 2026) |
-| `fastfood_costa_uk.tsv` | Costa: 71 drinks, in store and take-out sizes (food to add) | costa.co.uk menu pages (8 Nov 2026) |
+| `fastfood_costa_uk.tsv` | Costa: drinks per cup (in store and take-out) and food per portion with its weight | costa.co.uk menu pages (8 Nov 2026) |
 | `off_<country>.tsv` (planned) | Packaged products sold in one country, for offline barcode and search | Open Food Facts (ODbL) |
 
 To publish a change: edit or add packs in `packs/`, then run
