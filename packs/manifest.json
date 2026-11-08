@@ -9,6 +9,34 @@
    "bytes": 9257
   },
   {
+   "name": "fastfood_costa_uk",
+   "version": 1,
+   "url": "https://raw.githubusercontent.com/D0M1C0/islet-food-data/main/packs/fastfood_costa_uk.tsv",
+   "sha256": "17a871ea4c7842fd028d307a1a4a36192c1a987ff2608cbd15847de90eddcea8",
+   "bytes": 8338
+  },
+  {
+   "name": "fastfood_pizzahut_uk",
+   "version": 1,
+   "url": "https://raw.githubusercontent.com/D0M1C0/islet-food-data/main/packs/fastfood_pizzahut_uk.tsv",
+   "sha256": "66f6938354c35e3745f4833c56f3d7faee4120eb61c3c55c9f9fb0c148121bbf",
+   "bytes": 87740
+  },
+  {
+   "name": "fastfood_pret_uk",
+   "version": 1,
+   "url": "https://raw.githubusercontent.com/D0M1C0/islet-food-data/main/packs/fastfood_pret_uk.tsv",
+   "sha256": "41a1a50b6ee5aab91e26f9938eddf6bec96d1d97264695723f8f85f09913611f",
+   "bytes": 18854
+  },
+  {
+   "name": "fastfood_starbucks_uk",
+   "version": 1,
+   "url": "https://raw.githubusercontent.com/D0M1C0/islet-food-data/main/packs/fastfood_starbucks_uk.tsv",
+   "sha256": "fd07ddc4eb75d1f2db79ef89ed27d5b80fa00d01b1b7de34fd4c46a2214ef1eb",
+   "bytes": 30141
+  },
+  {
    "name": "fastfood_uk",
    "version": 2,
    "url": "https://raw.githubusercontent.com/D0M1C0/islet-food-data/main/packs/fastfood_uk.tsv",
