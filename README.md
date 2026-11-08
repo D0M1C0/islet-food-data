@@ -6,7 +6,7 @@ on the phone, so a broken download changes nothing. Islet works offline with the
 
 | Pack | What it holds | Source |
 | --- | --- | --- |
-| `common_uk.tsv` | Everyday UK foods with typical small / average / large portions (grams). Carbs come from CoFID codes in the app. | Portion weights are estimates; CoFID (McCance and Widdowson's, Open Government Licence) for nutrients |
+| `common_uk.tsv` | Everyday UK foods and meals (298, 8 Nov 2026) with typical small / average / large portions (grams). Carbs come from CoFID codes in the app. | Portion weights are estimates; CoFID (McCance and Widdowson's, Open Government Licence) for nutrients |
 | `fastfood_<country>.tsv` | Chain items: weight per item (if given), carbs and sugars per item. UK: Greggs (guide, Oct 2026), McDonald's (mcdonalds.com/gb, Nov 2026), KFC (kfc.co.uk, Nov 2026) | Each chain's own published nutrition information (date in the `checked` column) |
 | `fastfood_pizzahut_uk.tsv` | Pizza Hut Delivery: whole pizzas and one serving (half, third, quarter), sides, chicken, dips, desserts; carbs per item (no weights given) | Pizza Hut nutrition and allergen booklet, valid from July 2026 (read 8 Nov 2026) |
 | `fastfood_pret_uk.tsv` | Pret: food and drinks, per serving with the average weight | pret.co.uk menu pages (8 Nov 2026); the app also reads them monthly |

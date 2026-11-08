@@ -3,10 +3,10 @@
  "packs": [
   {
    "name": "common_uk",
-   "version": 1,
+   "version": 2,
    "url": "https://raw.githubusercontent.com/D0M1C0/islet-food-data/main/packs/common_uk.tsv",
-   "sha256": "d91510d808e01d0a668c1776d83871c5e0a8f3b304684181d55cb802b9996c13",
-   "bytes": 9257
+   "sha256": "a9141775d520bfd796d2c6da5d78f750e7b1f0e52833ee2e57323b63b72f079d",
+   "bytes": 23597
   },
   {
    "name": "fastfood_costa_uk",
